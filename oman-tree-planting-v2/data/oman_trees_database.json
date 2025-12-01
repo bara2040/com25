@@ -1,0 +1,629 @@
+{
+  "trees": [
+    {
+      "name": "اللبان",
+      "name_en": "Frankincense",
+      "scientific_name": "Boswellia sacra",
+      "type": "أشجار محلية نادرة",
+      "description": "اللبان - Boswellia sacra. أشجار محلية نادرة.",
+      "height_range": "3-5 متر",
+      "requirements": {
+        "rainfall_min": 100,
+        "rainfall_max": 300,
+        "temperature_min": 20,
+        "temperature_max": 38,
+        "humidity_min": 40,
+        "humidity_max": 70,
+        "pH_min": 6.5,
+        "pH_max": 7.8,
+        "soil_types": [
+          "رملية",
+          "طينية",
+          "جيرية"
+        ]
+      },
+      "optimal_planting_time": "الخريف والشتاء",
+      "seasonal_care": {
+        "الشتاء": "أفضل وقت للزراعة، الري معتدل",
+        "الربيع": "زيادة الري قليلاً، مراقبة النمو",
+        "الصيف": "تقليل الري، حماية من الحرارة الشديدة",
+        "الخريف": "تحضير للموسم القادم، فحص الصحة"
+      },
+      "care_tips": [
+        "مرة كل 10-15 يوم في الصيف، مرة شهرياً في الشتاء",
+        "سماد عضوي خفيف مرتين سنوياً",
+        "تقليم خفيف للأغصان الجافة فقط"
+      ],
+      "benefits": [
+        "إنتاج اللبان الثمين (راتنج عطري)",
+        "قيمة اقتصادية عالية للتصدير",
+        "تراث ثقافي عُماني أصيل",
+        "يتحمل الجفاف والظروف القاسية",
+        "يحسن التربة الصخرية"
+      ]
+    },
+    {
+      "name": "النخيل",
+      "name_en": "Date Palm",
+      "scientific_name": "Phoenix dactylifera",
+      "type": "أشجار مثمرة رئيسية",
+      "description": "النخيل - Phoenix dactylifera. أشجار مثمرة رئيسية.",
+      "height_range": "15-25 متر",
+      "requirements": {
+        "rainfall_min": 50,
+        "rainfall_max": 400,
+        "temperature_min": 15,
+        "temperature_max": 48,
+        "humidity_min": 30,
+        "humidity_max": 75,
+        "pH_min": 7.0,
+        "pH_max": 8.5,
+        "soil_types": [
+          "رملية",
+          "طينية",
+          "جيرية"
+        ]
+      },
+      "optimal_planting_time": "الخريف والشتاء",
+      "seasonal_care": {
+        "الشتاء": "موسم زراعة الفسائل، ري معتدل",
+        "الربيع": "موسم التلقيح والإزهار، زيادة الري",
+        "الصيف": "موسم نمو الثمار، ري منتظم",
+        "الخريف": "موسم الحصاد (أغسطس-نوفمبر)"
+      },
+      "care_tips": [
+        "مرتين أسبوعياً في الصيف، مرة أسبوعياً في الشتاء",
+        "سماد NPK كل 3 أشهر + عضوي سنوياً",
+        "إزالة السعف الجاف والشماريخ القديمة"
+      ],
+      "benefits": [
+        "إنتاج التمور عالية الجودة",
+        "مصدر دخل اقتصادي مستدام",
+        "توفير ظل طبيعي",
+        "رمز وطني وثقافي",
+        "يتحمل الملوحة والحرارة الشديدة"
+      ]
+    },
+    {
+      "name": "الغاف",
+      "name_en": "Ghaf Tree",
+      "scientific_name": "Prosopis cineraria",
+      "type": "أشجار ظل وبيئية",
+      "description": "الغاف - Prosopis cineraria. أشجار ظل وبيئية.",
+      "height_range": "8-15 متر",
+      "requirements": {
+        "rainfall_min": 50,
+        "rainfall_max": 350,
+        "temperature_min": 10,
+        "temperature_max": 48,
+        "humidity_min": 25,
+        "humidity_max": 70,
+        "pH_min": 6.5,
+        "pH_max": 8.5,
+        "soil_types": [
+          "رملية",
+          "طينية",
+          "جيرية"
+        ]
+      },
+      "optimal_planting_time": "الخريف والشتاء",
+      "seasonal_care": {
+        "الشتاء": "أفضل موسم للزراعة",
+        "الربيع": "موسم الإزهار، ري منتظم",
+        "الصيف": "تقليل الري، الشجرة متحملة",
+        "الخريف": "تحضير للموسم الجديد"
+      },
+      "care_tips": [
+        "مرة أسبوعياً في أول سنتين، ثم كل 15 يوم",
+        "لا يحتاج تسميد كثير (يثبت النيتروجين ذاتياً)",
+        "تقليم خفيف لتشكيل الظل"
+      ],
+      "benefits": [
+        "ظل كثيف وواسع",
+        "يثبت النيتروجين في التربة",
+        "مقاوم للجفاف والملوحة",
+        "علف للحيوانات (الأوراق والقرون)",
+        "يحمي من التصحر"
+      ]
+    },
+    {
+      "name": "السمر",
+      "name_en": "Acacia",
+      "scientific_name": "Acacia tortilis",
+      "type": "أشجار ظل وبيئية",
+      "description": "السمر - Acacia tortilis. أشجار ظل وبيئية.",
+      "height_range": "6-12 متر",
+      "requirements": {
+        "rainfall_min": 80,
+        "rainfall_max": 400,
+        "temperature_min": 12,
+        "temperature_max": 45,
+        "humidity_min": 30,
+        "humidity_max": 65,
+        "pH_min": 6.0,
+        "pH_max": 8.2,
+        "soil_types": [
+          "رملية",
+          "طينية",
+          "جيرية"
+        ]
+      },
+      "optimal_planting_time": "الخريف والشتاء",
+      "seasonal_care": {
+        "الشتاء": "موسم الزراعة المثالي",
+        "الربيع": "موسم الإزهار الذهبي",
+        "الصيف": "تحمل عالي للحرارة",
+        "الخريف": "مراقبة الصحة العامة"
+      },
+      "care_tips": [
+        "مرتين أسبوعياً في الصيف، مرة في الشتاء",
+        "سماد عضوي خفيف سنوياً",
+        "تقليم معتدل لتشكيل التاج"
+      ],
+      "benefits": [
+        "نمو سريع",
+        "يثبت النيتروجين",
+        "يحسن التربة الفقيرة",
+        "مصدر حطب ووقود",
+        "يجذب النحل (عسل السمر)"
+      ]
+    },
+    {
+      "name": "السدر",
+      "name_en": "Christ's Thorn Jujube",
+      "scientific_name": "Ziziphus spina-christi",
+      "type": "أشجار مثمرة ومباركة",
+      "description": "السدر - Ziziphus spina-christi. أشجار مثمرة ومباركة.",
+      "height_range": "5-10 متر",
+      "requirements": {
+        "rainfall_min": 150,
+        "rainfall_max": 500,
+        "temperature_min": 15,
+        "temperature_max": 42,
+        "humidity_min": 35,
+        "humidity_max": 70,
+        "pH_min": 6.5,
+        "pH_max": 8.0,
+        "soil_types": [
+          "طينية",
+          "طميية"
+        ]
+      },
+      "optimal_planting_time": "الخريف والشتاء",
+      "seasonal_care": {
+        "الشتاء": "موسم الزراعة والراحة",
+        "الربيع": "موسم الإزهار",
+        "الصيف": "نمو الثمار، ري منتظم",
+        "الخريف": "موسم الحصاد (سبتمبر-نوفمبر)"
+      },
+      "care_tips": [
+        "مرتين أسبوعياً في الصيف، أقل في الشتاء",
+        "سماد عضوي متوازن كل 4 أشهر",
+        "تقليم خفيف للأغصان المتشابكة"
+      ],
+      "benefits": [
+        "ثمار صحية ومغذية (النبق)",
+        "أوراق طبية (ورق السدر)",
+        "ظل كثيف",
+        "قيمة دينية وثقافية",
+        "عسل نادر ومميز"
+      ]
+    },
+    {
+      "name": "المانجو",
+      "name_en": "Mango",
+      "scientific_name": "Mangifera indica",
+      "type": "أشجار مثمرة استوائية",
+      "description": "المانجو - Mangifera indica. أشجار مثمرة استوائية.",
+      "height_range": "10-20 متر",
+      "requirements": {
+        "rainfall_min": 200,
+        "rainfall_max": 600,
+        "temperature_min": 20,
+        "temperature_max": 38,
+        "humidity_min": 50,
+        "humidity_max": 80,
+        "pH_min": 6.0,
+        "pH_max": 7.5,
+        "soil_types": [
+          "طينية",
+          "طميية"
+        ]
+      },
+      "optimal_planting_time": "الخريف والشتاء",
+      "seasonal_care": {
+        "الشتاء": "موسم الإزهار (يناير-مارس)",
+        "الربيع": "نمو الثمار، زيادة الري",
+        "الصيف": "موسم الحصاد (مايو-يوليو)",
+        "الخريف": "راحة وتحضير للموسم القادم"
+      },
+      "care_tips": [
+        "مرتين أسبوعياً في النمو، أقل في الإثمار",
+        "سماد NPK متوازن كل 3 أشهر",
+        "تقليم بعد الحصاد لتشكيل الشجرة"
+      ],
+      "benefits": [
+        "ثمار لذيذة وعالية القيمة",
+        "ظل واسع ودائم الخضرة",
+        "قيمة اقتصادية تجارية",
+        "يحسن الهواء والبيئة",
+        "فوائد صحية متعددة"
+      ]
+    },
+    {
+      "name": "الليمون العُماني",
+      "name_en": "Omani Lime",
+      "scientific_name": "Citrus aurantiifolia",
+      "type": "أشجار حمضيات محلية",
+      "description": "الليمون العُماني - Citrus aurantiifolia. أشجار حمضيات محلية.",
+      "height_range": "3-5 متر",
+      "requirements": {
+        "rainfall_min": 150,
+        "rainfall_max": 500,
+        "temperature_min": 15,
+        "temperature_max": 35,
+        "humidity_min": 45,
+        "humidity_max": 75,
+        "pH_min": 6.0,
+        "pH_max": 7.5,
+        "soil_types": [
+          "طينية",
+          "طميية"
+        ]
+      },
+      "optimal_planting_time": "الخريف والشتاء",
+      "seasonal_care": {
+        "الشتاء": "موسم الإزهار الرئيسي",
+        "الربيع": "نمو الثمار",
+        "الصيف": "موسم الحصاد",
+        "الخريف": "إزهار ثانوي"
+      },
+      "care_tips": [
+        "2-3 مرات أسبوعياً، تربة رطبة",
+        "سماد حمضيات كل شهرين",
+        "تقليم منتظم لتشجيع الإثمار"
+      ],
+      "benefits": [
+        "ليمون عُماني أسود مجفف (لومي)",
+        "نكهة مميزة في الطبخ العُماني",
+        "فيتامين C عالي",
+        "سهل الزراعة",
+        "إنتاج سريع (2-3 سنوات)"
+      ]
+    },
+    {
+      "name": "الجوافة",
+      "name_en": "Guava",
+      "scientific_name": "Psidium guajava",
+      "type": "أشجار مثمرة استوائية",
+      "description": "الجوافة - Psidium guajava. أشجار مثمرة استوائية.",
+      "height_range": "4-8 متر",
+      "requirements": {
+        "rainfall_min": 200,
+        "rainfall_max": 600,
+        "temperature_min": 18,
+        "temperature_max": 40,
+        "humidity_min": 50,
+        "humidity_max": 80,
+        "pH_min": 6.0,
+        "pH_max": 7.5,
+        "soil_types": [
+          "طينية",
+          "طميية"
+        ]
+      },
+      "optimal_planting_time": "الخريف والشتاء",
+      "seasonal_care": {
+        "الشتاء": "راحة نسبية، ري أقل",
+        "الربيع": "موسم الإزهار",
+        "الصيف": "موسم الحصاد الرئيسي",
+        "الخريف": "حصاد ثانوي"
+      },
+      "care_tips": [
+        "مرتين أسبوعياً في الصيف",
+        "سماد عضوي كل 3 أشهر",
+        "تقليم بعد الحصاد"
+      ],
+      "benefits": [
+        "ثمار غنية بفيتامين C",
+        "سهلة الزراعة والعناية",
+        "إنتاج وفير",
+        "تتحمل الحرارة",
+        "قيمة غذائية عالية"
+      ]
+    },
+    {
+      "name": "التين",
+      "name_en": "Fig",
+      "scientific_name": "Ficus carica",
+      "type": "أشجار مثمرة متوسطية",
+      "description": "التين - Ficus carica. أشجار مثمرة متوسطية.",
+      "height_range": "3-8 متر",
+      "requirements": {
+        "rainfall_min": 200,
+        "rainfall_max": 600,
+        "temperature_min": 10,
+        "temperature_max": 40,
+        "humidity_min": 40,
+        "humidity_max": 70,
+        "pH_min": 6.0,
+        "pH_max": 8.0,
+        "soil_types": [
+          "طينية",
+          "طميية"
+        ]
+      },
+      "optimal_planting_time": "الخريف والشتاء",
+      "seasonal_care": {
+        "الشتاء": "موسم التقليم والزراعة",
+        "الربيع": "نمو الأوراق والثمار",
+        "الصيف": "موسم الحصاد (يونيو-أغسطس)",
+        "الخريف": "حصاد ثانوي محتمل"
+      },
+      "care_tips": [
+        "مرتين أسبوعياً، أقل بعد الإثمار",
+        "سماد عضوي مرتين سنوياً",
+        "تقليم شتوي لتجديد الأغصان"
+      ],
+      "benefits": [
+        "ثمار حلوة ومغذية",
+        "سهل التكاثر (عُقل)",
+        "يتحمل الجفاف",
+        "إنتاج مبكر (2-3 سنوات)",
+        "فوائد صحية متعددة"
+      ]
+    },
+    {
+      "name": "الرمان",
+      "name_en": "Pomegranate",
+      "scientific_name": "Punica granatum",
+      "type": "أشجار مثمرة صحية",
+      "description": "الرمان - Punica granatum. أشجار مثمرة صحية.",
+      "height_range": "3-6 متر",
+      "requirements": {
+        "rainfall_min": 150,
+        "rainfall_max": 500,
+        "temperature_min": 12,
+        "temperature_max": 40,
+        "humidity_min": 35,
+        "humidity_max": 65,
+        "pH_min": 6.0,
+        "pH_max": 7.5,
+        "soil_types": [
+          "طينية",
+          "طميية"
+        ]
+      },
+      "optimal_planting_time": "الخريف والشتاء",
+      "seasonal_care": {
+        "الشتاء": "موسم الزراعة والراحة",
+        "الربيع": "موسم الإزهار",
+        "الصيف": "نمو الثمار",
+        "الخريف": "موسم الحصاد (سبتمبر-نوفمبر)"
+      },
+      "care_tips": [
+        "مرتين أسبوعياً في النمو والإثمار",
+        "سماد متوازن كل 3 أشهر",
+        "تقليم خفيف لتهوية الشجرة"
+      ],
+      "benefits": [
+        "ثمار غنية بمضادات الأكسدة",
+        "قيمة طبية عالية",
+        "أزهار جميلة",
+        "يتحمل الحرارة والجفاف",
+        "قيمة تجارية"
+      ]
+    },
+    {
+      "name": "الزيتون",
+      "name_en": "Olive",
+      "scientific_name": "Olea europaea",
+      "type": "أشجار زيتية مباركة",
+      "description": "الزيتون - Olea europaea. أشجار زيتية مباركة.",
+      "height_range": "8-15 متر",
+      "requirements": {
+        "rainfall_min": 250,
+        "rainfall_max": 700,
+        "temperature_min": 10,
+        "temperature_max": 38,
+        "humidity_min": 40,
+        "humidity_max": 65,
+        "pH_min": 6.5,
+        "pH_max": 8.5,
+        "soil_types": [
+          "رملية",
+          "طينية",
+          "جيرية"
+        ]
+      },
+      "optimal_planting_time": "الخريف والشتاء",
+      "seasonal_care": {
+        "الشتاء": "موسم الزراعة",
+        "الربيع": "موسم الإزهار",
+        "الصيف": "نمو الثمار",
+        "الخريف": "موسم الحصاد (أكتوبر-ديسمبر)"
+      },
+      "care_tips": [
+        "مرة أسبوعياً، أقل في الشتاء",
+        "سماد عضوي سنوياً",
+        "تقليم منتظم للتهوية"
+      ],
+      "benefits": [
+        "إنتاج زيت الزيتون",
+        "شجرة معمرة (مئات السنين)",
+        "قيمة دينية (شجرة مباركة)",
+        "تتحمل الجفاف",
+        "فوائد صحية للزيت"
+      ]
+    },
+    {
+      "name": "الباباي",
+      "name_en": "Papaya",
+      "scientific_name": "Carica papaya",
+      "type": "أشجار مثمرة استوائية",
+      "description": "الباباي - Carica papaya. أشجار مثمرة استوائية.",
+      "height_range": "3-8 متر",
+      "requirements": {
+        "rainfall_min": 250,
+        "rainfall_max": 700,
+        "temperature_min": 20,
+        "temperature_max": 38,
+        "humidity_min": 60,
+        "humidity_max": 85,
+        "pH_min": 6.0,
+        "pH_max": 7.0,
+        "soil_types": [
+          "طينية",
+          "طميية"
+        ]
+      },
+      "optimal_planting_time": "الخريف والشتاء",
+      "seasonal_care": {
+        "الشتاء": "حماية من البرد",
+        "الربيع": "موسم زراعة ممتاز",
+        "الصيف": "نمو سريع وإثمار",
+        "الخريف": "حصاد مستمر"
+      },
+      "care_tips": [
+        "يومياً أو كل يومين، تحب الرطوبة",
+        "سماد عضوي شهرياً",
+        "التقليم السنوي"
+      ],
+      "benefits": [
+        "نمو سريع جداً (إنتاج خلال 6-9 أشهر)",
+        "ثمار غنية بالإنزيمات الهاضمة",
+        "فوائد طبية متعددة",
+        "إنتاج مستمر",
+        "قيمة اقتصادية"
+      ]
+    },
+    {
+      "name": "الطرفاء",
+      "name_en": "Tamarisk",
+      "scientific_name": "Tamarix aphylla",
+      "type": "أشجار ظل وحماية",
+      "description": "الطرفاء - Tamarix aphylla. أشجار ظل وحماية.",
+      "height_range": "10-18 متر",
+      "requirements": {
+        "rainfall_min": 50,
+        "rainfall_max": 300,
+        "temperature_min": 5,
+        "temperature_max": 48,
+        "humidity_min": 20,
+        "humidity_max": 70,
+        "pH_min": 6.5,
+        "pH_max": 9.0,
+        "soil_types": [
+          "رملية",
+          "طينية",
+          "جيرية"
+        ]
+      },
+      "optimal_planting_time": "الخريف والشتاء",
+      "seasonal_care": {
+        "الشتاء": "أفضل موسم للزراعة",
+        "الربيع": "نمو سريع",
+        "الصيف": "تحمل عالي للحرارة",
+        "الخريف": "مراقبة الصحة"
+      },
+      "care_tips": [
+        "مرة أسبوعياً في البداية، ثم كل 15 يوم",
+        "لا يحتاج تسميد",
+        "تقليم للتحكم في الحجم"
+      ],
+      "benefits": [
+        "يتحمل الملوحة العالية جداً",
+        "مصدات رياح ممتازة",
+        "ظل كثيف",
+        "يثبت الرمال",
+        "مقاوم للجفاف الشديد"
+      ]
+    },
+    {
+      "name": "الأثل",
+      "name_en": "Athel Pine",
+      "scientific_name": "Tamarix articulata",
+      "type": "أشجار ظل وزينة",
+      "description": "الأثل - Tamarix articulata. أشجار ظل وزينة.",
+      "height_range": "8-12 متر",
+      "requirements": {
+        "rainfall_min": 50,
+        "rainfall_max": 400,
+        "temperature_min": 5,
+        "temperature_max": 50,
+        "humidity_min": 20,
+        "humidity_max": 75,
+        "pH_min": 6.5,
+        "pH_max": 9.5,
+        "soil_types": [
+          "رملية",
+          "طينية",
+          "جيرية"
+        ]
+      },
+      "optimal_planting_time": "الخريف والشتاء",
+      "seasonal_care": {
+        "الشتاء": "موسم الزراعة المثالي",
+        "الربيع": "نمو سريع",
+        "الصيف": "تحمل ممتاز",
+        "الخريف": "نمو مستمر"
+      },
+      "care_tips": [
+        "مرتين أسبوعياً في البداية",
+        "لا يحتاج",
+        "تقليم لتشكيل التاج"
+      ],
+      "benefits": [
+        "نمو سريع جداً",
+        "يتحمل الملوحة الشديدة",
+        "ظل دائم",
+        "جمالي (أوراق إبرية)",
+        "مناسب للمناطق الساحلية"
+      ]
+    },
+    {
+      "name": "القرط",
+      "name_en": "Mesquite",
+      "scientific_name": "Prosopis juliflora",
+      "type": "أشجار مقاومة للتصحر",
+      "description": "القرط - Prosopis juliflora. أشجار مقاومة للتصحر.",
+      "height_range": "6-10 متر",
+      "requirements": {
+        "rainfall_min": 50,
+        "rainfall_max": 350,
+        "temperature_min": 10,
+        "temperature_max": 48,
+        "humidity_min": 25,
+        "humidity_max": 65,
+        "pH_min": 6.0,
+        "pH_max": 8.5,
+        "soil_types": [
+          "رملية",
+          "طينية",
+          "جيرية"
+        ]
+      },
+      "optimal_planting_time": "الخريف والشتاء",
+      "seasonal_care": {
+        "الشتاء": "موسم الزراعة",
+        "الربيع": "موسم الإزهار",
+        "الصيف": "نمو القرون",
+        "الخريف": "نضج القرون"
+      },
+      "care_tips": [
+        "أسبوعياً في البداية، ثم كل 15 يوم",
+        "لا يحتاج",
+        "تقليم للتحكم في الانتشار"
+      ],
+      "benefits": [
+        "يثبت النيتروجين",
+        "قرون علفية",
+        "مقاوم للجفاف الشديد",
+        "مصدر وقود (حطب)",
+        "يحارب التصحر"
+      ]
+    }
+  ],
+  "last_updated": "2024-12-01",
+  "total_trees": 15
+}
